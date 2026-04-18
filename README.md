@@ -13,7 +13,7 @@
 
 ---
 
-# 🚀 Hey, I'm Kighaaaam (Benyelles Ikram Fadela)
+# 🚀 Hey, I'm Kighaaaam "Benyelles Ikram Fadela"
 
 <p align="center">
 💻 Computer Science Student at ESI-SBA (2CP)  
