@@ -47,7 +47,7 @@ I started more on the **frontend and UI/UX side**, and now I’m expanding towar
 
 ### 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,dart,cpp,latex" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,dart,latex" />
 </p>
 
 ### ⚙️ Frontend
