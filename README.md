@@ -23,23 +23,24 @@
 
 ## 🌠 About Me
 
-I’m a curious developer who enjoys understanding how technology works under the hood.
+hey i'm a dev who can't leave things alone until i understand how they actually work under the hood
+started out doing frontend and UI/UX, then got curious about what's happening behind the screen, so i moved to backend. and somewhere along the way **cybersecurity** took over. breaking stuff, then figuring out how to secure it? yeah, that's the one 
 
-I started more on the **frontend and UI/UX side**, and now I’m expanding toward **backend systems, AI, and machine learning**, while keeping a strong interest in **cybersecurity and robotics**.
+i'm also getting into robotics, plus some AI/QUANTUM on the side 
 
-🎯 My current goal is to become a **versatile full-stack developer**, capable of building complete systems — but I’m especially drawn to **secure systems and intelligent machines**.
+🎯 **goal:** survive the cys 
 
-🌌 I don’t know exactly where the future will take me, but I know it will be something **technical, complex, and exciting**.
+🌌 **long term:** no idea where this goes yet, but it's gonna be technical, complicated, and fun
 
 ---
 
-
 ## 🧠 Currently Learning
 
-- Artificial Intelligence & Machine Learning  
-- Backend architecture & system design  
-- Cybersecurity fundamentals  
-- Improving problem-solving & algorithms  
+- 🔐 **Cybersecurity** (main focus rn)
+- ⚙️ **Backend & system design**
+- 🧩 **Algorithms & problem solving** (the grind never ends)
+- 🤖 **Robotics** (just started, still figuring it out)
+- 🧠 **AI & ML** (poking around)
 
 ---
 
